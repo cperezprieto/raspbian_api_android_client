@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Raspbian API Client</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="pref_header_general">Server Configuration</string>
+
+    <string name="pref_title_server_hostname">Hostname/IP</string>
+    <string name="pref_default_display_hostname"></string>
+
+    <string name="pref_title_server_port">Port</string>
+    <string name="pref_default_display_port">4567</string>
+
+    <!-- Strings related to Main -->
+    <string name="title_activity_main">Raspberry Pi Led Status</string>
+    <string name="title_switch_1">Green Led</string>
+    <string name="title_switch_2">Red Led</string>
+
+</resources>
